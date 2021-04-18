@@ -2,4 +2,5 @@
   (lib (name Type-C)(type KiCad)(uri C:/Users/plent/Documents/KiCAD/Type-C.pretty-master)(options "")(descr ""))
   (lib (name keebs)(type KiCad)(uri C:/Users/plent/Documents/KiCAD/keebs.pretty-master)(options "")(descr ""))
   (lib (name keyboard_parts)(type KiCad)(uri C:/Users/plent/Documents/KiCAD/keyboard_parts.pretty-master)(options "")(descr ""))
+  (lib (name AT90USB1286AU)(type KiCad)(uri C:/Users/plent/Documents/KiCAD/ul_AT90USB1286AU/footprints.pretty)(options "")(descr ""))
 )
